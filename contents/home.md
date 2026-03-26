@@ -1,17 +1,20 @@
+# Welcome! 👋
 
+I'm Marie, an **Instructional Designer** dedicated to creating learning experiences that actually stick. 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I believe that good design is invisible—if a learner can move through a course without getting frustrated by the "how," they can focus entirely on the "what."
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: marieg0209@gmail.com
+github: "your-github-username"
+linkedin: "your-linkedin-profile"
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+### What I'm currently working on:
+
+* 🎓 Refining my portfolio.
+* 🛠️ Experimenting with AI in education.
+* ☕ Drinking way too much coffee.
+
 
